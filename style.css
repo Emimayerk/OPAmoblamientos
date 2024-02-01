@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
   font-size: 16px;
 }
 
@@ -92,7 +92,7 @@ header {
 #home-principal {
   width: 100%;
   height: 90vh;
-  background: url(opamoblamientos/jpg-products/home-principal.webp);
+  background: url(./jpg-products/home-principal.webp);
   background-position: center;
   background-size: cover;
 }
@@ -150,7 +150,7 @@ form {
   flex-wrap: wrap;
   justify-content: center;
   margin-bottom: 3rem;
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 h2 {
@@ -171,7 +171,7 @@ input.text {
   padding: 1rem 1rem;
   font-size: 16px;
   margin-bottom: 1rem;
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 textarea {
@@ -185,7 +185,7 @@ textarea {
   max-width: 80%;
   max-height: 180px;
   min-height: 150px;
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 input#button {
@@ -199,7 +199,7 @@ input#button {
   width: 80%;
   padding: 1rem 0.5rem;
   cursor: pointer;
-  font-family: "Lato", sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 
 /*FOOTER*/
@@ -301,7 +301,7 @@ div#btn-prev {
   line-height: 33px;
   left: 20px;
   cursor: pointer;
-  background: url(opamoblamientos/img/chevron-left.png);
+  background: url(./img/chevron-left.png);
   background-size: cover;
   background-position: center;
   transition: all 0.26s ease-in-out;
@@ -314,7 +314,7 @@ div#btn-next {
   line-height: 33px;
   right: 20px;
   cursor: pointer;
-  background: url(opamoblamientos/img/chevron-right.png);
+  background: url(./img/chevron-right.png);
   background-size: cover;
   background-position: center;
   transition: all 0.26s ease-in-out;
@@ -350,31 +350,31 @@ article.slide .data-content p {
 }
 
 #product-one {
-  background: url("opamoblamientos/jpg-products/cocina-premium.webp");
+  background: url('./jpg-products/cocina-premium.webp');
 }
 
 #product-two {
-  background: url("opamoblamientos/jpg-products/cocina-contemporanea.webp");
+  background: url('./jpg-products/cocina-contemporanea.webp');
 }
 
 #product-three {
-  background: url("opamoblamientos/jpg-products/cocina-europa.webp");
+  background: url('./jpg-products/cocina-europa.webp');
 }
 
 #product-four {
-  background: url("opamoblamientos/jpg-products/cocina-clasica.webp");
+  background: url('./jpg-products/cocina-clasica.webp');
 }
 
 #product-five {
-  background: url("opamoblamientos/jpg-products/placards.webp");
+  background: url('./jpg-products/placards.webp');
 }
 
 #product-six {
-  background: url("opamoblamientos/jpg-products/vestidores.webp");
+  background: url('./jpg-products/vestidores.webp');
 }
 
 #product-seven {
-  background: url("opamoblamientos/jpg-products/livings.webp");
+  background: url('./jpg-products/livings.webp');
 }
 
 /* FIN SLIDER */
@@ -450,7 +450,7 @@ article.slide .data-content p {
   #home-principal {
     width: 100%;
     height: 100vh;
-    background: url(opamoblamientos/img/home-principal.webp);
+    background: url(./img/home-principal.webp);
     background-position: center;
     background-size: cover;
   }
@@ -499,31 +499,31 @@ article.slide .data-content p {
   /* SLIDE */
 
   #product-one {
-    background: url("opamoblamientos/img/cocina-premium.webp");
+    background: url('./img/cocina-premium.webp');
   }
 
   #product-two {
-    background: url("opamoblamientos/img/cocina-contemporanea.webp");
+    background: url('./img/cocina-contemporanea.webp');
   }
 
   #product-three {
-    background: url("opamoblamientos/img/cocina-europa.webp");
+    background: url('./img/cocina-europa.webp');
   }
 
   #product-four {
-    background: url("opamoblamientos/img/cocina-clasica.webp");
+    background: url('./img/cocina-clasica.webp');
   }
 
   #product-five {
-    background: url("opamoblamientos/img/placards.webp");
+    background: url('./img/placards.webp');
   }
 
   #product-six {
-    background: url("opamoblamientos/img/vestidores.webp");
+    background: url('./img/vestidores.webp');
   }
 
   #product-seven {
-    background: url("opamoblamientos/img/livings.webp");
+    background: url('./img/livings.webp');
   }
 
   section#slider {
@@ -576,7 +576,7 @@ article.slide .data-content p {
     left: 20px;
 
     cursor: pointer;
-    background: url(opamoblamientos/img/chevron-left.png);
+    background: url(./img/chevron-left.png);
     background-size: cover;
     background-position: center;
     transition: all 0.26s ease-in-out;
@@ -589,7 +589,7 @@ article.slide .data-content p {
     line-height: 33px;
     right: 20px;
     cursor: pointer;
-    background: url(opamoblamientos/img/chevron-right.png);
+    background: url(./img/chevron-right.png);
     background-size: cover;
     background-position: center;
     transition: all 0.26s ease-in-out;
